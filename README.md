@@ -1,8 +1,5 @@
 # Automated Sales Data Cleaning & Reporting Pipeline
 
-**Author:** Shanti Kumari Verma  
-**Role Simulated:** Data Analyst  
-
 ---
 
 ## 📌 Objective
@@ -131,6 +128,7 @@ RAW_DATA_PATH = config["raw_data_path"]
 CLEANED_DATA_PATH = config["cleaned_data_path"]
 LOG_PATH = config["log_path"]
 REPORT_PATH = config["report_path"]
+```
 
 ## 📂 Folder Structure
 
@@ -152,3 +150,8 @@ Automated-Sales-Reporting/
 │   │
 │   └── reports/
 │       └── superstore_summary_2026-01-21.xlsx
+```
+
+## Author and Contact
+**Author:** Shanti Kumari Verma  
+**Role Simulated:** Data Analyst  
